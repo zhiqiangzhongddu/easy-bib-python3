@@ -1,0 +1,20 @@
+author$title$venue$volume$number$pages$publisher$year
+David J. Crandall and Lars Backstrom and Dan Cosley and Siddharth Suri and Daniel Huttenlocher and Jon Kleinberg$Inferring Social Ties from Geographic Coincidences$PNAS$107$52$22436-22441$National Academy of Sciences$2010
+Yves-Alexandre de Montjoye and C{\'e}sar A. Hidalgo and Michel Verleysen and Vincent D. Blondel$Unique in the Crowd: The Privacy Bounds of Human Mobility$scireport$3$$1376$Nature Publishing Group$2013
+David Liben-Nowell and Jon Kleinberg$The Link-prediction Problem for Social Networks$JAIST$58$7$1019-1031$Wiley Online Library$2007
+Shouling Ji and Prateek Mittal and Raheem Beyah$Graph Data Anonymization, De-Anonymization Attacks, and De-Anonymizability Quantification: A Survey$ICST$19$2$1305-1326$IEEE$2016
+Cynthia Dwork and Aaron Roth$The Algorithmic Foundations of Differential Privacy$FTTCS$9$3-4$211-407$Now Publishers Inc.$2014
+Lei Zou and Lei Chen and M. Tamer Ozsu$K-Automorphism: A General Framework for Privacy Preserving Network Publication$VLDB_journal$2$1$946-957$VLDB Endowment$2009
+Yue Wang and Xintao Wu$Preserving Differential Privacy in Degree-correlation based Graph Generation$TDP$6$2$127$NIH Public Access$2013
+Michael Hay and Gerome Miklau and David Jensen and Don Towsley and Philipp Weis$Resisting Structural Re-identification in Anonymized Social Networks$VLDB_journal$1$1$102-114$VLDB Endowment$2008
+Smriti Bhagat and Graham Cormode and Balachander Krishnamurthy and Divesh Srivastava$Class-based Graph Anonymization for Social Network Data$VLDB_journal$2$1$766-777$VLDB Endowment$2009
+J-P Onnela and Jari Saram{\"a}ki and Jorkki Hyv{\"o}nen and Gy{\"o}rgy Szab{\'o} and David Lazer and Kimmo Kaski and J{\'a}nos Kert{\'e}sz and A-L Barab{\'a}si$Structure and Tie Strengths in Mobile Communication Networks$PNAS$104$18$7332-7336$National Academy of Sciences$2007
+Lada A Adamic and Eytan Adar$Friends and Neighbors on the Web$SN$25$3$211-230$Elsevier$2003
+Foteini Baldimtsi and Dimitrios Papadopoulos and Stavros Papadopoulos and Alessandra Scafuro and Nikos Triandopoulos$Secure Computation in Online Social Networks$IACR$2016$948$$$2016
+Giulia Fanti and Peter Kairouz and Sewoong Oh and Kannan Ramchandran and Pramod Viswanath$Hiding the Rumor Source$ITIT$63$10$6679-6713$IEEE$2017
+Lee Humphreys and Phillipa Gill and Balachander Krishnamurthy$Twitter: A Content Analysis of Personal Information$ICS$17$7$843-857$Taylor \& Francis$2014
+Latanya Sweeney$k-Anonymity: A Model for Protecting Privacy$IJUFKS$10$5$557-570$World Scientific$2002
+Dingqi Yang and Daqing Zhang and Bingqing Qu$Participatory Cultural Mapping Based on Collective Behavior Data in Location-Based Social Networks$TIST$7$3$$ACM$2016
+Nils Homer and Szabolcs Szelinger and Margot Redman and David Duggan and Waibhav Tembe and Jill Muehling and John V. Pearson and Dietrich A. Stephan and Stanley F. Nelson and David W. Craig$Resolving Individuals Contributing Trace Amounts of DNA to Highly Complex Mixtures Using High-Density SNP Genotyping Microarrays$PlosGene$4$8$1-9$Public Library of Science$2008
+Zekeriya Erkin and Martin Franz and Jorge Guajardo and Stefan Katzenbeisser and Inald Lagendijk and Tomas Toft$Privacy-Preserving Face Recognition$PETS$$$$$2009
+Adri{\`a} Gasc{\'o}n and Phillipp Schoppmann and Borja Balle and Mariana Raykova and Jack Doerner and Samee Zahur and David Evans$Privacy-Preserving Distributed Linear Regression on High-Dimensional Data$PETS$$$$$2017
